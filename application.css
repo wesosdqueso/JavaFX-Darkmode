@@ -37,14 +37,3 @@
     -fx-text-fill: white;
 }
 
-.money-fixer{
-	/*
-	-fx-background-color: #555; 
-	-fx-border-color: black;
-	*/
-	-fx-background-color: transparent;
-}
-
-.money-fixer *{
-	-fx-text-fill: white;
-}
